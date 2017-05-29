@@ -1,6 +1,6 @@
 {
   "name": "bower-opentimestamps",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Javascript OpenTimestamps library for web.",
   "license": "LGPL",
   "main": "./bower-opentimestamps.js",
