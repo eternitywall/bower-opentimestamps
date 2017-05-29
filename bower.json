@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Javascript OpenTimestamps library for web.",
   "license": "LGPL",
-  "main": "./index.js",
-  "ignore": [],
+  "main": "./bower-opentimestamps.js",
+  "ignore": ["node_modules/", ".gitignore", "bower.json", 
+             "README.md", "index.js", "gulpfile.js",
+             "package.json"],
   "dependencies": {
   }
 }
